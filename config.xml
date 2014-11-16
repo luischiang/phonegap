@@ -18,6 +18,6 @@
 	Luis Chiang
     </author>
 
-    <gap:plugin name="com.phonegap.plugins.contacts" />
+    <gap:plugin name="com.badrit.contactpicker" version="0.1.0" />
 
 </widget>
