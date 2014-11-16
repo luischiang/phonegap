@@ -18,6 +18,6 @@
 	Luis Chiang
     </author>
 
-    <gap:plugin name="com.badrit.contactpicker" version="0.1.0" />
+    <gap:plugin name="org.apache.cordova.contacts" version="0.2.13" />
 
 </widget>
